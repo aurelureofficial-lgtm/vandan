@@ -288,7 +288,7 @@ export default function App(): JSX.Element {
             </button>
           </div>
 
-          <div className="mt-4 text-center text-sm text-gray-500">Any text</div>
+          <div className="mt-4 text-center text-sm text-gray-500">Love you so much, my babyy! 💕</div>
         </div>
       )}
     </div>
