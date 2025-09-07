@@ -21,8 +21,8 @@ import React, { useEffect, useRef, useState } from "react";
 const MUSIC_URL = "/ranjheya-ve-zain-zohaib-yratta-media_axDPrvzX.mp3"; // Replace with your own song if you want
 
 const GALLERY_IMAGES = [
-  "/Image/1.webp",
-  "/Image/2.webp",
+  "Image/1.webp",
+  "Image/1.webp",
   "/Image/3.webp",
   "/Image/4.webp",
 ];
