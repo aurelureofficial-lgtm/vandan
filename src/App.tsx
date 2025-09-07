@@ -18,7 +18,7 @@
 
 import React, { useEffect, useRef, useState } from "react";
 
-const MUSIC_URL = "/ranjheya-ve-zain-zohaib-yratta-media_axDPrvzX.mp3"; // Replace with your own song if you want
+const MUSIC_URL = "/https://github.com/aurelureofficial-lgtm/vandan/blob/main/ranjheya-ve-zain-zohaib-yratta-media_axDPrvzX.mp3"; // Replace with your own song if you want
 
 const GALLERY_IMAGES = [
   "https://github.com/aurelureofficial-lgtm/vandan/blob/main/Image/1.webp",
